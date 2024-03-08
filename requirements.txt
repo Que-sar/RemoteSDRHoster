@@ -1,0 +1,5 @@
+AWSIoTPythonSDK
+matplotlib
+python-dotenv
+numpy
+pyrtlsdr
